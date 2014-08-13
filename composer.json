@@ -1,0 +1,13 @@
+{
+    "name":"jagalan/cache-backend-database",
+    "type":"magento-module",
+    "license":"GPL-2.0",
+    "homepage":"https://github.com/jagalan/Jag_Cache_Backend_Database",
+    "description":"A database caching backend for Magento that supports cleaning of expired tags",
+    "authors":[
+        {
+            "name":"Juan Antonio Galán Martínez"
+	    "email":"juan.galan.martinez@gmail.com"
+        }
+    ],
+}

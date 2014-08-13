@@ -1,0 +1,17 @@
+<config>
+    <modules>
+        <Jag_DBCacheBackend>
+            <version>0.1</version>
+        </Jag_DBCacheBackend>
+    </modules>
+    <global>
+        <resources>
+            <jagdbcachebackend_setup>
+                <setup>
+                    <module>Jag_DBCacheBackend</module>
+                    <class>Mage_Core_Model_Resource_Setup</class>
+                </setup>
+            </jagdbcachebackend_setup>
+        </resources>
+    </global>
+</config>
