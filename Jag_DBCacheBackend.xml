@@ -1,0 +1,8 @@
+<config>
+  <modules>
+    <Jag_DBCacheBackend>
+      <active>true</active>
+      <codePool>community</codePool>
+    </Jag_DBCacheBackend>
+  </modules>
+</config>

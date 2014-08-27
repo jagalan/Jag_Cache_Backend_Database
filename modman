@@ -1,2 +1,3 @@
 Jag/DBCacheBackend/*                 app/code/community/Jag/DBCacheBackend/
 lib/*                              lib/
+Jag_DBCacheBackend.xml		     app/etc/modules/
