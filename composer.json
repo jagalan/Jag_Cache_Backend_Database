@@ -6,8 +6,8 @@
     "description":"A database caching backend for Magento that supports cleaning of expired tags",
     "authors":[
         {
-            "name":"Juan Antonio Galán Martínez"
+            "name":"Juan Antonio Galán Martínez",
 	    "email":"juan.galan.martinez@gmail.com"
         }
-    ],
+    ]
 }
